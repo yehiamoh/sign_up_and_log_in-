@@ -26,6 +26,7 @@ namespace sign_up
         StreamReader sr;
         FileStream sign_up_file;
         int yehia7arak;
+        int yehia7arak2;
         private void Form1_Load(object sender, EventArgs e)
         {
 
